@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LysCass
+- 👋 Hi, I’m Lorrayne
 - 👀 I’m interested in RPA and analytics with python.
 - 🌱 I’m currently learning java and python.
 
